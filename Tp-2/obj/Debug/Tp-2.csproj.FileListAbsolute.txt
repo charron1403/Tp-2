@@ -1,0 +1,11 @@
+C:\Users\charr\Desktop\Tp-2\Tp-2\bin\Debug\Tp-2.exe.config
+C:\Users\charr\Desktop\Tp-2\Tp-2\bin\Debug\Tp-2.exe
+C:\Users\charr\Desktop\Tp-2\Tp-2\bin\Debug\Tp-2.pdb
+C:\Users\charr\Desktop\Tp-2\Tp-2\obj\Debug\Tp-2.csproj.AssemblyReference.cache
+C:\Users\charr\Desktop\Tp-2\Tp-2\obj\Debug\Tp_2.Form1.resources
+C:\Users\charr\Desktop\Tp-2\Tp-2\obj\Debug\Tp_2.Properties.Resources.resources
+C:\Users\charr\Desktop\Tp-2\Tp-2\obj\Debug\Tp-2.csproj.GenerateResource.cache
+C:\Users\charr\Desktop\Tp-2\Tp-2\obj\Debug\Tp-2.csproj.CoreCompileInputs.cache
+C:\Users\charr\Desktop\Tp-2\Tp-2\obj\Debug\Tp-2.exe
+C:\Users\charr\Desktop\Tp-2\Tp-2\obj\Debug\Tp-2.pdb
+C:\Users\charr\Desktop\Tp-2\Tp-2\obj\Debug\Tp_2.FormDifficulte.resources
